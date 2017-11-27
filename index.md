@@ -1,5 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
+root: .
 carpentry: "DC"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Detroit Cafe"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "313 Detroit St. Detroit, MI 48313"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
